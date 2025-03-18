@@ -11,8 +11,6 @@
 
 <h2 align="center">Hi, I'm Alejandro Osorno 💻</h2>
 
-<br clear="both">
-
 <h3 align="center">I'm a Systems Engineering student passionate about software development, optimization, and databases. I'm currently working on projects using top technologies, and I enjoy solving programming problems. Always eager to learn and collaborate on exciting tech projects!</h3>
 
 <h2 align="center">Technologies I've worked with 👇</h2>
