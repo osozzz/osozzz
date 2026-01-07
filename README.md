@@ -29,8 +29,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
@@ -59,12 +57,7 @@
   <img width="12" />
 </div>
 
-<h2 align="center">My Stats from Daily.Dev and Github 🎰</h2>
-
-<br clear="both">
-
-<img align="left" height="200" src="https://i.imgur.com/HZsS8Ow.png"  />
-<img align="right" height="200" width="390" src="https://github-readme-stats.vercel.app/api?username=osozzz&show_icons=true&theme=synthwave" />
+<h2 align="center">My Stats from Github 🎰</h2>
 
 <br clear="both">
 
@@ -82,7 +75,7 @@
   <a href="https://www.credly.com/badges/f513a548-14ce-437b-b200-108f3253bb1d/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Credly Badge" width="150"/>
   </a>
-  <a href="https://www.credly.com/badges/f513a548-14ce-437b-b200-108f3253bb1d/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/fedefb05-7671-4a92-9d1e-8662e467d329/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Credly Badge" width="150"/>
   </a>
 </div>
